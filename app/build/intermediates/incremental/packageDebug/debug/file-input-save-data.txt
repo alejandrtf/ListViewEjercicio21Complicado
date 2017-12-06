@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Dec 06 16:24:19 CET 2017
+0.baseType=DIRECTORY
+0.base=D\:\\Projects\\AndroidStudioProjects\\ListViewEjercicio21Complicado1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
